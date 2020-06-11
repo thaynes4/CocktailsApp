@@ -11,6 +11,7 @@ To install the program on your machine clone the repository from github.
 To use the program simply start the cocktailApp.py or to use the cocktail.py in another project:
 
 '''python
+
 import cocktail
 
 cocktail.getCocktail("michelada") # returns ingredients and recipe for michelada
